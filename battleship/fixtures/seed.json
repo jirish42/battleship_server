@@ -1,0 +1,10 @@
+[
+  {
+    "model": "battleship.user",
+    "pk": 3,
+    "fields": {
+      "username": "ben",
+      "password": "7"
+    }
+  }
+]
